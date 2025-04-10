@@ -19,7 +19,7 @@
 - 👀 I’m interested in **Web Development**, **UI/UX Design**, and **Frontend Technologies**  
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, PHP, Python**, and diving into **React**, **CodeIgniter 4**, and **MySQL**  
 - 💞️ I’m looking to collaborate on exciting **web projects** and open source contributions  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/...) • [Email](mailto:your-email@example.com)  
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/dini-ramadani-915883231)
 - 😄 Pronouns: she/her  
 - ⚡ Fun fact: I love traveling and often get my best coding ideas while on the road ✈️🏕️
 
@@ -70,17 +70,3 @@ diniramadani/diniramadani is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diniramadani&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diniramadani&layout=compact&theme=radical" width="45%"/>
-</p>
-
----
-
-## ✨ Quote that keeps me going
-
-> *"Design is not just what it looks like and feels like. Design is how it works."* – Steve Jobs

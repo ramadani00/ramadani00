@@ -1,7 +1,10 @@
+<div id="badges" align="right">
+  <img src="https://komarev.com/ghpvc/?username=alexistdev&style=flat-square&color=blue" alt=""/></a>
+</div>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+there!+👋;I'm+Dini+Ramadani+...;Nice+to+meet+you!&center=true&size=30">
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+there!+👋;I'm+Dini+Ramadani+...;Nice+to+meet+you!&center=true&size=30">
+</a>
 
 I'm a passionate Informatics Engineering student who loves building for the web and exploring the world 🌍.
 

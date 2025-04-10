@@ -1,4 +1,8 @@
-# Hi there 👋 I'm Dini Ramadani
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+there!+👋;I'm+Dini+Ramadani+...;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</div>
 
 I'm a passionate Informatics Engineering student who loves building for the web and exploring the world 🌍.
 
@@ -13,3 +17,4 @@ I'm a passionate Informatics Engineering student who loves building for the web 
 diniramadani/diniramadani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+

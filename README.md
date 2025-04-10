@@ -1,5 +1,5 @@
 <div id="badges" align="right">
-  <img src="https://komarev.com/ghpvc/?username=diniramadani&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ramadani00&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 <h1 align="center">
@@ -54,8 +54,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diniramadani&show_icons=true&theme=dark" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diniramadani&layout=compact&theme=dark" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ramadani00&show_icons=true&theme=dark" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadani00&layout=compact&theme=dark" width="45%"/>
 </p>
 
 ---

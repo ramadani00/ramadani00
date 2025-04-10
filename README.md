@@ -62,8 +62,10 @@
 
 ## ✨ Quote that keeps me going
 
-> *"Design is not just what it looks like and feels like. Design is how it works."* – Steve Jobs
 > *"When you truly want something, all the universe conspires in helping you to achieve it."* – Paulo Coelho
+<br>
+> *"Design is not just what it looks like and feels like. Design is how it works."* – Steve Jobs
+
 
 
 <!---

@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <em>A passionate <strong>An enthusiastic Informatics Engineering student</strong>with a keen interest in full-stack web development, UI/UX design, and innovative tech solutions.</em>
+  <em>An enthusiastic<strong> Informatics Engineering student</strong>with a keen interest in full-stack web development, UI/UX design, and innovative tech solutions.</em>
 </p>
 
 ---

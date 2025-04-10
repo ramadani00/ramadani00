@@ -51,11 +51,19 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diniramadani&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diniramadani&show_icons=true&theme=dark" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diniramadani&layout=compact&theme=dark" width="45%"/>
 </p>
+
+---
+
+## ✨ Quote that keeps me going
+
+> *"Design is not just what it looks like and feels like. Design is how it works."* – Steve Jobs
+
 
 <!---
 diniramadani/diniramadani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

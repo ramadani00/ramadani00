@@ -9,55 +9,76 @@
 </h1>
 
 <p align="center">
-  <em>🎓 An enthusiastic<strong> Informatics Engineering student</strong> with a keen interest in full-stack web development, UI/UX design, and innovative tech solutions.</em>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />  
+  <em><strong>Informatics Engineering student</strong> who loves turning ideas into beautiful and functional web experiences.</em>
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 👀 I’m interested in **Web Development**, **UI/UX Design**, and **Frontend Technologies**  
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, PHP, Python**, and diving into **React**, **CodeIgniter 4**, and **MySQL**  
-- 💞️ I’m looking to collaborate on exciting **web projects** and open source contributions  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/...) • [Email](mailto:your-email@example.com)  
-- 😄 Pronouns: she/her  
-- ⚡ Fun fact: I love traveling and often get my best coding ideas while on the road ✈️🏕️
+✨ **Who am I?**  
+A passionate tech enthusiast diving deep into the world of **frontend development**, **UI/UX design**, and all things web.
+
+🧠 **Currently Exploring:**  
+- HTML, CSS, JavaScript  
+- PHP & Python  
+- CodeIgniter 4 & React  
+- MySQL & Git/GitHub  
+- UI/UX prototyping with Figma
+
+🌍 **What I love:**  
+- Clean code & intuitive UI  
+- Brainstorming design while traveling  
+- Learning by building real-world projects
+
+📬 **Reach Me At:**  
+[LinkedIn](https://www.linkedin.com/...) • [Email](mailto:your-email@example.com)  
+
+😄 **Pronouns:** she/her  
+✈️ **Fun fact:** My best ideas come while on the road 🌍
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
-  <!-- Web Dev -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
 
   <!-- Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="40" height="40" alt="CodeIgniter"/>
 
   <!-- Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
 
   <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diniramadani&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diniramadani&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diniramadani&layout=compact&theme=radical" width="45%"/>
 </p>
 
+---
+
+## ✨ Quote that keeps me going
+
+> *"Design is not just what it looks like and feels like. Design is how it works."* – Steve Jobs
+
 <!---
-diniramadani/diniramadani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+diniramadani/diniramadani is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->

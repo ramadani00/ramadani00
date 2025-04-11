@@ -66,7 +66,7 @@
 
 <p align="center">
   <em>"When you truly want something, all the universe conspires in helping you to achieve it." – Paulo Coelho</em><br>
-  <em>"🔥 "Don't compare your journey with others. Everyone has their own path. Focus on your own progress.”</em>
+  <em>"Every expert was once a beginner. Keep learning.”</em>
 </p>
 
 ---

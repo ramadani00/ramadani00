@@ -21,8 +21,7 @@
 - 👀 I’m interested in **Web Development**, **UI/UX Design**, and **Frontend Technologies**  
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, PHP**, and diving into **React**, **CodeIgniter 4**, and **MySQL**  
 - 💞️ I’m looking to collaborate on exciting **web projects** and open source contributions  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/dini-ramadani-915883231)  
-[Instagram](https://www.instagram.com/diniramadani18?igsh=OWVsaXB5M2kyM2hw)  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/dini-ramadani-915883231)[Instagram](https://www.instagram.com/diniramadani18?igsh=OWVsaXB5M2kyM2hw)  
 - 😄 Pronouns: she/her  
 - ⚡ Fun fact: I love diving into random coding projects just to see what I can build.
 

@@ -1,5 +1,5 @@
 
-<div id="badges" align="center">
+<div id="badges" align="right">
   <img src="https://komarev.com/ghpvc/?username=ramadani00&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 

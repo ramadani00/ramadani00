@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=ramadani00&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdqcm02NTB0MnB0Mmg2bGEzNG42YjV1NWV2a3RsYzYzMXh4cDZwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4CT0HDGW75DSDOdxZR/giphy.gif" width="120" height="120" alt="Description"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazl3bmt1YTk5ang2eWN5YTJiNGJlY2Mybnh2MWRldHlmdGxwYjR2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IkV6KfPyMbqnFJjb5I/giphy.gif" width="120" height="120" alt="Description"/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">

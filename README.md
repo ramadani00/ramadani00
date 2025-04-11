@@ -1,6 +1,9 @@
+
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=ramadani00&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjA0ZndvZHZuYmtiMGRoeTVpcXJ3bHo3c2dtdm5tMGNkeDNwanhmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eikHNUhBolClThTfME/giphy.gif" width="120" height="120" alt="Description"/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">

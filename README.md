@@ -11,7 +11,7 @@
 </h1>
 
 <p align="center">
-  <em>🎓 An enthusiastic<strong> Informatics Engineering student</strong> with a keen interest in full-stack web development, UI/UX design, and innovative tech solutions.</em>
+  <em> 🎓 An enthusiastic Informatics Engineering student (4th semester) with a keen interest in full-stack web development, UI/UX design, and innovative tech solutions. </em>
 </p>
 
 ---

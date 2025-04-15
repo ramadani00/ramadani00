@@ -2,7 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=ramadani00&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+there!+👋;I'm+Dini+Ramadani;Nice+to+meet+you!&center=true&size=30" alt="Typing SVG" />
@@ -23,16 +22,6 @@
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/dini-ramadani-915883231) | [Instagram](https://www.instagram.com/diniramadani18?igsh=OWVsaXB5M2kyM2hw)  
 - 😄 Pronouns: she/her  
 - ⚡ Fun fact: I love diving into random coding projects just to see what I can build.
-
----
-
-## 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ramadani00&theme=radical&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Profile Trophy"/>
-  </a>
-</p>
 
 ---
 
@@ -70,6 +59,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadani00&layout=compact&theme=radical" width="48%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramadani00&theme=radical" width="48%"/>
+</p>
+
 ---
 
 ## ✨ Quotes that Inspire Me
@@ -77,6 +70,16 @@
 <p align="center">
   <em>"When you truly want something, all the universe conspires in helping you to achieve it." – Paulo Coelho</em><br>
   <em>"Every expert was once a beginner. Keep learning.”</em>
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dini-ramadani-915883231"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/diniramadani18?igsh=OWVsaXB5M2kyM2hw"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:diniramadani18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---

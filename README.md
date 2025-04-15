@@ -4,43 +4,43 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+there!+👋;I'm+Dini+Ramadani;Nice+to+meet+you!&center=true&size=30" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+there!+👋;I'm+Dini+Ramadani;Welcome+to+my+GitHub!&center=true&size=30" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
-  <em> 🎓 An enthusiastic Informatics Engineering student (4th semester) with a keen interest in full-stack web development, UI/UX design, and innovative tech solutions. </em>
+  <em>🎓 An enthusiastic Informatics Engineering student (4th semester) with a passion for full-stack web development, UI/UX design, and innovative tech solutions.</em>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 👀 I’m interested in **Web Development**, **UI/UX Design**, and **Frontend Technologies**  
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, PHP**, and diving into **React**, **CodeIgniter 4**, and **MySQL**  
-- 💞️ I’m looking to collaborate on exciting **web projects** and open source contributions  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/dini-ramadani-915883231) | [Instagram](https://www.instagram.com/diniramadani18?igsh=OWVsaXB5M2kyM2hw)  
-- 😄 Pronouns: she/her  
-- ⚡ Fun fact: I love diving into random coding projects just to see what I can build.
+- 👀 I’m interested in **Web Development**, **UI/UX Design**, and **Frontend Technologies**.  
+- 🌱 Currently learning **HTML, CSS, JavaScript, PHP**, and diving into **React**, **CodeIgniter 4**, and **MySQL**.  
+- 💞️ Open to collaborating on exciting **web projects** and contributing to **open source projects**.  
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/dini-ramadani-915883231) or [Instagram](https://www.instagram.com/diniramadani18?igsh=OWVsaXB5M2kyM2hw).  
+- 😄 Pronouns: she/her.  
+- ⚡ Fun fact: I love experimenting with random coding projects and exploring new ideas!
 
 ---
 
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <!-- Web Dev -->
+  <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter Notebook"/>
-
-  <!-- Frameworks -->
+  
+  <!-- Frameworks & Libraries -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="40" height="40" alt="CodeIgniter"/>
 
-  <!-- Database -->
+  <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
 
   <!-- Tools -->
@@ -58,9 +58,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ramadani00&show_icons=true&theme=radical" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadani00&layout=compact&theme=radical" width="48%"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramadani00&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramadani00&theme=radical" width="48%"/>
 </p>
 
 ---

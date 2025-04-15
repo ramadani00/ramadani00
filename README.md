@@ -21,7 +21,6 @@
 - 💞️ Open to collaborating on exciting **web projects** and contributing to **open source projects**.  
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/dini-ramadani-915883231) or [Instagram](https://www.instagram.com/diniramadani18?igsh=OWVsaXB5M2kyM2hw).  
 - 😄 Pronouns: she/her.  
-- ⚡ Fun fact: I love experimenting with random coding projects and exploring new ideas!
 
 ---
 

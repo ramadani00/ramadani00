@@ -80,9 +80,9 @@
 ## 📈 GitHub Activity Graph
 
 <!-- Green Snake Animation for Contribution Graph -->
-<p align="center">
+[<p align="center">
   <img src="https://github.com/ramadani00/ramadani00/raw/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" style="max-width: 100%;">
-</p>
+</p>](https://github.com/ramadani00/ramadani00/raw/output/github-contribution-grid-snake.svg.)
 
 <!---
 diniramadani/diniramadani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

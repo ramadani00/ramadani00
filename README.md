@@ -77,6 +77,11 @@
 
 ---
 
+<!--   GitHub stats graph -->
+## 📈 GitHub Activity Graph:
+<!--   green snake -->
+![ramadanidini00's github activity graph](https://raw.githubusercontent.com/ramadanidini00/ramadanidini00/output/github-contribution-grid-snake.svg)
+
 
 <!---
 diniramadani/diniramadani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
